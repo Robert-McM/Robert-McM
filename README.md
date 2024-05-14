@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Robert-McM
-- 👀 My interests are in the biological sciences and bioinformatics. 
-- 🌱 I’m currently learning how to use data science to analyze biological data. 
-- 💞️ I’m looking to collaborate on any exciting new opportunities about biology and data science. 
+- 👀 My interests are in the biological sciences and medicine. 
+- 💞️ I’m looking to collaborate on any exciting new opportunities about science. 
 - 📫 I can be reached by email at r.mcmanus234@gmail.com
 
 <!---
